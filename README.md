@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Bom Dia! Eu sou o <a href="https://github.com/PereiraLegend"><i>Lucas Pereira</i></a> 😄</h1>
+  <h1 align="center">Oi Bom Dia! Eu sou o <a href="https://github.com/joaovitor27"><i>João Vitor</i></a> 😄</h1>
   <p align="center">Sou um estudante do curso de Bacharelado de Ciências da Computação na <a href="https://estacio.br"><i>Estácio</i></a> e aqui eu apresento os meus projetos 
   
   </a><br>
@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/PereiraLegend">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PereiraLegend&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereiraLegend&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/joaovitor27">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovitor27&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor27&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
