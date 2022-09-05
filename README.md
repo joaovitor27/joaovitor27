@@ -1,9 +1,11 @@
 <div>
-  <h1 align="center">Oi Bom Dia! Eu sou o <a href="https://github.com/joaovitor27"><i>João Vitor</i></a> 😎</h1>
+  <h1 align="center">Olá! Eu sou o <a href="https://github.com/joaovitor27"><i>João Vitor</i></a> 😎</h1>
   
-  <p align="center">Cursando Ciências da computação, 5º Período e atualmente sou estagiário na Revgás como desenvolvedor Back-End.
+  <p align="center">
+Studying Computing period, 5th and currently I'm an intern at Revgás as a Back-End developer.
   </a>
-  <p align="center">Fique a vontade para navegar nessa página e ver o que já produzi, e caso queira e claro, tenha tempo, sinta-se a vontade para me dar seu feedback</h2>
+  <p align="center">Feel free to browse this page and see what I've already produced, and if you want and of course, have time, feel free to give me your feedback.
+</h2>
 </div>
 
 <div align="center">
@@ -43,6 +45,6 @@
 </div>
 
 <div align="center">
-  <p>Espero que Goste 😎</p>
+  <p>I hope you enjoy 😎</p>
   <!--<p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>-->
 </div>
