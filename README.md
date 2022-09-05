@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Bom Dia! Eu sou o <a href="https://github.com/joaovitor27"><i>João Vitor</i></a> 😎</h1>
-  <p align="center">Sou um estudante do curso de Bacharelado de Ciências da Computação na <a href="https://estacio.br"><i>Estácio</i></a> e aqui eu apresento os meus projetos 
+  <p align="center">Cursando Ciências da computação, 5º Período e atualmente sou estagiário na Revgás como desenvolvedor Back-End. 
   
   </a><br>
   <p align="center">Fique a vontade para navegar nessa página e ver o que já produzi, e caso queira e claro, tenha tempo, sinta-se a vontade para me dar seu feedback</h2>
