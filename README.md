@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Bom Dia! Eu sou o <a href="https://github.com/joaovitor27"><i>João Vitor</i></a> 😄</h1>
+  <h1 align="center">Oi Bom Dia! Eu sou o <a href="https://github.com/joaovitor27"><i>João Vitor</i></a> 😎</h1>
   <p align="center">Sou um estudante do curso de Bacharelado de Ciências da Computação na <a href="https://estacio.br"><i>Estácio</i></a> e aqui eu apresento os meus projetos 
   
   </a><br>
@@ -43,6 +43,6 @@
 </div>
 
 <div align="center">
-  <p>Espero que Goste 😃</p>
+  <p>Espero que Goste 😎</p>
   <!--<p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>-->
 </div>
