@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá! Eu sou o <a href="https://github.com/joaovitor27"><i>João Vitor</i></a> 😎</h1>
+  <h1 align="center">Hi! I'm <a href="https://github.com/joaovitor27"><i>João Vitor</i></a> 😎</h1>
   
   <p align="center">
 Studying Computing period, 5th and currently I'm an intern at Revgás as a Back-End developer.
