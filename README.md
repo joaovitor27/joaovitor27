@@ -2,7 +2,7 @@
   <h1 align="center">Hi! I'm <a href="https://github.com/joaovitor27"><i>João Vitor</i></a> 😎</h1>
   
   <p align="center">
-Studying Computing period, 5th and currently I'm an intern at Revgás as a Back-End developer.
+Studying Computing period, 6th and currently I'm an intern at Revgás as a Back-End developer.
   </a>
   <p align="center">Feel free to browse this page and see what I've already produced, and if you want and of course, have time, feel free to give me your feedback.
 </h2>
