@@ -11,7 +11,7 @@ Studying Computing period, 8th and currently I'm an intern at Revgás as a Back-
 
 <h3 align="center">My portfolio: <a> https://portifolio-joaovitor27.vercel.app/ </a></h3>
 </div>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaovitor27" alt="joaovitor27" /></a> </p>
 <div align="center">
   <a href="https://github.com/joaovitor27">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovitor27&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
