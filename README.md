@@ -8,8 +8,6 @@
 Graduated in Computer Science, and currently working at Revgás as a Back-End developer.
 </p>
   <p align="center">Feel free to browse this page and see what I've already produced, and if you want and of course, have time, feel free to give me your feedback.</p>
-
-<h3 align="center">My portfolio: <a> https://portifolio-joaovitor27.vercel.app/ </a></h3>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaovitor27" alt="joaovitor27" /></a> </p>
 <div align="center">
