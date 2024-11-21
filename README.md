@@ -5,7 +5,7 @@
   <h1 align="center">Hi! I'm <a href="https://github.com/joaovitor27"><i>João Vitor</i></a> 😎</h1>
   
   <p align="center">
-Graduated in Computer Science, and currently working at Revgás as a Back-End developer.
+Graduated in Computer Science, and currently working at CGE (Controladoria Geral do Estado) as a Full Stack developer.
 </p>
   <p align="center">Feel free to browse this page and see what I've already produced, and if you want and of course, have time, feel free to give me your feedback.</p>
 </div>
