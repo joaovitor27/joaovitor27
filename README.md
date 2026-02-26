@@ -8,8 +8,8 @@
 Graduated in Computer Science, and currently working at CGE (Controladoria Geral do Estado) as a Full Stack developer.
 </p>
   <p align="center">Feel free to browse this page and see what I've already produced, and if you want and of course, have time, feel free to give me your feedback.</p>
-</div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaovitor27&theme=onedark" alt="joaovitor27" /></a> </p>
+</div>[![trophy]
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaovitor27&theme=dracula" alt="joaovitor27" /></a> </p>
 <div align="center">
   <a href="https://github.com/joaovitor27">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaovitor27&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
