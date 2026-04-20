@@ -111,7 +111,7 @@ Sigo aplicando minha visão de engenharia no BizManager, Atleta Connect e nas so
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" style="display: inline-block; padding: 0 22px;"><img src="assets/linkedin.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;" /></a>
+  <a href="https://www.linkedin.com/in/joaovitor27dev/" style="display: inline-block; padding: 0 22px;"><img src="assets/linkedin.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;" /></a>
   <a href="https://github.com/joaovitor27" style="display: inline-block; padding: 0 22px;"><img src="assets/github.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle;" /></a>
-  <a href="https://seu-portfolio-aqui.com" style="display: inline-block; padding: 0 22px;"><img src="assets/folder.svg" alt="Portfólio" width="30" height="20" style="vertical-align: middle;" /></a>
+  <a href="https://portfolio-joaovitor-puce.vercel.app/" style="display: inline-block; padding: 0 22px;"><img src="assets/folder.svg" alt="Portfólio" width="30" height="20" style="vertical-align: middle;" /></a>
 </p>
